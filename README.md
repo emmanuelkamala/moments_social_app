@@ -1,6 +1,6 @@
-# Project: Building an API
+# Project: Building a social app
 
-In this project, I will be building an API using NodeJS and Express. It's just a simple API with data of names of different people with their ages.
+In this project, I will be building a social app where a user can create posts, upload images, a user can like and comment on someone's post. There won't be any authentication, so it will be an open social app.
 
 ![screenshot](./images/homepage.png)<br />
 
@@ -8,35 +8,27 @@ In this project, I will be building an API using NodeJS and Express. It's just a
 
 - NodeJS
 - Express
+- React
+- Material-UI
 
-## Documentation
-
-[Documentation of the API](#)
+## Live link
+coming soon...
 
 ## Getting Started
 
 Open your terminal or text editor and use next command
 
-        git clone https://github.com/emmanuelkamala/Node_Express_API.git
+        git clone https://github.com/emmanuelkamala/moments_social_app.git
 
-        cd Node_Express_API
+        cd moments_social_app
 
         Run 'npm install' command to install package dependencies.
 
 ## Run the app
 
-To run the app and test the project; 
-You will need a REST Client to test the endpoints. And for that I will recommend [Postman](https://postman.com/).
+npm start
 
-After downloading postman and installing it, then go to the root of the app enter this command on the command line:
-'npm start'
-
-Then open postman and use this link to start accessing the app:
-http://localhost:3000/
-
-
-After if you want to do any changes please create new branch, after changes open pull request.
-Happy coding!
+visit: http://localhost:3000
 
 
 ## Author
