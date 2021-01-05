@@ -12,7 +12,7 @@ In this project, I will be building a social app where a user can create posts, 
 - Material-UI
 
 ## Live link
-coming soon...
+coming soon..
 
 ## Getting Started
 
