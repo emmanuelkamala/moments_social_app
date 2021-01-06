@@ -1,4 +1,4 @@
-export default posts (posts=[], action) => {
+const posts = (posts=[], action) => {
   switch (action.type) {
     case 'FETCH_ALL':
       return posts;
@@ -8,3 +8,5 @@ export default posts (posts=[], action) => {
       return posts;
   }
 }
+
+export default posts;
