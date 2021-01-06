@@ -3,7 +3,7 @@ import { TextField, Paper, Typography, Button } from '@material-ui/core';
 import { useDispatch } from 'react-redux';
 import FileBase from 'react-file-base64';
 import useStyles from './styles';
-import {createPost} from '../../actions/posts';
+import { createPost } from '../../actions/posts';
 
 function Form() {
   const [postData, setPostData] = useState({
