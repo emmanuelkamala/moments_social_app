@@ -1,34 +1,42 @@
-# Project: Building a social app
+# Project: A Moment Social Sharing App
 
-In this project, I will be building a social app where a user can create posts, upload images, a user can like and comment on someone's post. There won't be any authentication, so it will be an open social app.
+This is a social sharing app for creating moments worth sharing in one's life. A user can add a photo, visitors can like the photo, the owner of the photo can also delete the photo of the moment created and create tags related to the moment.
 
 ![screenshot](./images/homepage.png)<br />
 
+
 ## Built With
 
-- NodeJS
-- Express
-- React
-- Material-UI
+- ReactJS
+- Redux
+- MongoDB
+- Node
 
-## Live link
-coming soon..
 
 ## Getting Started
 
-Open your terminal or text editor and use next command
+Open your terminal or text editor and use next command...
 
-        git clone https://github.com/emmanuelkamala/moments_social_app.git
+> git clone https://github.com/emmanuelkamala/quinncia-frontend-assignment.git
 
-        cd moments_social_app
+> cd quinncia-frontend-assignment
 
-        Run 'npm install' command to install package dependencies.
+> Run 'npm install' command to install package dependencies.
 
-## Run the app
+### For Frontend: 
+> cd client <br />
+> then run: npm start
 
-npm start
+### For Backend: 
+> cd server <br />
+> then run: npm start
 
-visit: http://localhost:3000
+
+> Then open the browser and enter this link:
+http://localhost:3000
+
+After if you want to do any changes please create new branch, then create a pull request.<br />
+Happy coding!
 
 
 ## Author
@@ -48,3 +56,7 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
