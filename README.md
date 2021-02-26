@@ -17,9 +17,9 @@ This is a social sharing app for creating moments worth sharing in one's life. A
 
 Open your terminal or text editor and use next command...
 
-> git clone https://github.com/emmanuelkamala/quinncia-frontend-assignment.git
+> git clone https://github.com/emmanuelkamala/moments_social_app.git
 
-> cd quinncia-frontend-assignment
+> cd moments_social_app
 
 > Run 'npm install' command to install package dependencies.
 
